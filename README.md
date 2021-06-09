@@ -4,7 +4,7 @@ LINK TO THE APP: https://adoring-beaver-0448b9.netlify.app/ => Chat with multipl
 
 #FEATURES
 ENTERING YOUR NAME AND CREATING A ROOM =>
-blob:file:///b312550e-c4dc-469d-87fb-ad5c77e87277
+![image](https://user-images.githubusercontent.com/69900562/121328970-67aef880-c932-11eb-8e9c-01dd7fccadb6.png)
 
 CHATTING UI =>
-blob:file:///0d63e092-f4f0-4353-b954-5e84ff5ea21f
+![image](https://user-images.githubusercontent.com/69900562/121329055-7b5a5f00-c932-11eb-8204-2acf5c0e998f.png)
